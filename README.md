@@ -1,1 +1,3 @@
 # rustlings
+
+- `rustlings` - run Rustlings
