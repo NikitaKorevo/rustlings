@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-using_as
+as_ref_mut
 
 intro1
 intro2
@@ -82,3 +82,5 @@ rc1
 clippy1
 clippy2
 clippy3
+using_as
+from_into
